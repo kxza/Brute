@@ -12,6 +12,5 @@ sudo python3 ./setup.py install
 
 ### Usage
 brute -h
-mkdir area; cd area; sudo brute wlp3s0mon
 
 * Note: not all features are implemented yet.
