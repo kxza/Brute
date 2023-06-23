@@ -1,5 +1,5 @@
 # Brute Warwalker
-Automated tool for capturing WPA2 handshake as quickly as possible.
+Automated tool for capturing lots of WPA2 handshakes as quickly as possible.
 
 ### Requirements
 * aircrack-ng
